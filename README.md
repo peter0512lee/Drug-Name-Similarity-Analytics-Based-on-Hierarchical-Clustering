@@ -1,4 +1,4 @@
 # Drug Name Similarity Analytics Based on Hierarchical Clustering
  
 ## Flow Diagram
-![Flow Diagram](https://imgur.com/ng7Ju0F)
+![1](https://i.imgur.com/N0To84f.jpg)
